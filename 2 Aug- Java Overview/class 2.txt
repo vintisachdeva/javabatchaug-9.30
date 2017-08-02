@@ -1,0 +1,34 @@
+int *value;// value
+int sum = 5;
+
+sum = sum + value;
+
+cout<<value//garbage value
+
+cout<<sum//wrong value
+
+
+core java--> desktop app--> standard edi.
+
+advance java--> server side app--> enterprise edi.
+
+collection of predefined class and pred. interfaces
+API--> Applicatio programming/package interface
+
+jar--> libraries--> predefined code
+
+
+compile--> javac filename.java
+run-->     java classname
+
+
+
+
+
+
+
+
+
+
+
+

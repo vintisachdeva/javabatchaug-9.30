@@ -1,0 +1,12 @@
+
+Open source--> freely download, src code(Predefiend coe), modification, redistribute
+
+Platform independent--> Bytecode--> WORA
+
+------------------------->
+
+ jdk(java development kit) --> .java
+ jre(java runtime enviornment)--> .class
+ jvm(java virtual machine)--> .class convert to native
+
+.java --> compiler--> .class(Bytecode) --> native code/ machine dependent code 
