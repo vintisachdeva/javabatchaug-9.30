@@ -1,0 +1,34 @@
+features:
+
+java- high level language / c- middle level lang./ c++
+
+
+java--> platform independent-->
+
+
+platform--> os + hardware config. = window/linux/mac +
+hard = 32 bits/64 bits 
+
+
+1995-2017 --> C/C++--> window 7
+
+Platform independent
+
+java--> src code--> .java
+
+compiler--> intermediate code -->(.class--> Bytecode) src code--> encrypt --> .class execute--> 
+(native code)output 
+
+
+Native code (Machine dependent code)--> (bits form)(machine dependent info(storage/ store/))-->
+
+
+
+
+c/c++--> src code-->compiler--> native code
+
+OOPs
+
+
+cmd-->compile: javac filename.java
+	run:   java classname
