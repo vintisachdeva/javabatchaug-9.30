@@ -1,0 +1,18 @@
+int , float, double, long
+
+
+Integer, Float, Double, Long
+
+//primitive type
+
+int value = 10;
+
+
+//Reference type
+
+//class //a-object name
+//new --> create new memory for a
+
+String a = new String("Hello");
+
+//constructor--> String()
