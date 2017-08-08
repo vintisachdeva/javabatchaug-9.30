@@ -1,0 +1,47 @@
+Decision making statement
+
+if-else
+
+
+ram kumar
+
+RAM KUMAR
+
+ram kumar
+
+with function / without function
+-------------------------------------------------------
+switch
+	int value =1-7
+		
+	switch(value){
+
+
+	case 1:// 1==1value 
+		statements;
+	break;//exit from switch
+	
+	case 2:
+		statements;
+
+	}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
