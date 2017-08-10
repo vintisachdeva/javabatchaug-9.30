@@ -1,0 +1,17 @@
+
+3 conditions:
+
+
+while/do-while/for
+
+	initialization
+	int a = 1;
+
+	condition
+	a<=10;
+
+	increment/decrement
+	a++; 
+	a = a + 1;
+
+	
