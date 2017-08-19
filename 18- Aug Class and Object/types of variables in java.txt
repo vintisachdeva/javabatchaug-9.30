@@ -1,0 +1,19 @@
+Class--> No real world existence--> Logically present
+	eg--> Human being
+		child of this class
+Object--> Real world entities--> physcially present
+
+
+types of variables in java:
+
+--> Local variables
+	declare inside any method, constructor or any block
+	default initialization is not provided for local var.
+
+--> Instance variables
+	declare variable outside the method, constructor or any 	block. Declare at class level
+
+--> static variables
+	declare with static keyword are static variables
+
+
