@@ -1,0 +1,23 @@
+varibales:
+
+1) Local variable
+
+int i;//compilation error if not initialized and used
+	
+declare inside any method or constructor or block
+scope is limited where these are declared
+local variable needs to be initialized. compiler will not assign any default value with them.
+
+2) Instance variable
+
+declare outside any method or constructor or block
+scope is global. can be accessed from anywhere
+default initialization is provided here by the compiler so initialization can be skipped.
+
+int i = 5;//default will be 0
+
+3) static variable
+
+declare with static keyword are static variables.
+can be declare inside or outside any method/constructor/block
+default initilization is provided by compiler
