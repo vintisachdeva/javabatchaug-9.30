@@ -1,0 +1,32 @@
+class StudentDetails--> name, rollno and marks
+class TotalMarks--> total marks , percentage , grade
+class Percentage
+Class Grade
+Class ResultSheet
+
+ResultSheet:
+--------------------------------------------------------
+Input:
+
+Enter your name
+Enter your rollno
+Enter marks:
+eng
+hindi
+maths
+
+---------------------------------------------------------
+Output:
+
+Name:				Rollno:
+
+Subject Name		Marks
+Eng			  76
+Hindi			  87
+Maths			  54
+
+Total			=
+
+Percentage		=
+
+Grade			= 
