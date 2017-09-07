@@ -1,0 +1,46 @@
+--> code reuse
+
+
+--> poymorphism:
+
+Method Overloading
+--> 
+
+//Annotations--> developer / compiler will ignore this
+@AnnotationName
+
+Method Overidding
+
+Rule 1:
+--> singature--> return type, method name and parameters are same in parent and child class 
+
+
+
+
+
+
+Upcasting and Downcasting: Only in inheritance
+
+Upcasting: Automatically during inheritance and at object creation, Implicit
+
+ParentClass object = new ChildClass();
+
+ParentClass--> scope of object
+
+Object--> object creation
+
+new --> memory allocation
+
+ChildClass()--> constructor call
+
+
+
+
+
+
+
+
+
+
+
+
