@@ -1,0 +1,37 @@
+File Handling--> 
+Predefined class-> 
+
+step-1: Create file
+step-2: File write
+step-3: File Read
+step-4: File modify/delete
+
+File(Create file or directory create),
+Abstract Writer(Parent class of all writer classes),Abstract Reader(prototypes), 
+
+--> Stream(Bytes)-->Abstract StreamReader(),Abstract StreamWriter(), etc
+
+--> undefined methods
+--> we cannot create an object of abstract class
+
+Bytes			Char
+
+.mp3 or .mp4
+images
+bytes			text files (internally bytes)
+network 
+data read
+
+
+
+
+
+
+
+
+
+
+
+
+
+
