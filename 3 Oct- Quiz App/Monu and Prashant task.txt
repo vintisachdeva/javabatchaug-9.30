@@ -1,0 +1,23 @@
+
+------------------------------------------------------------------------------
+Quiz -->
+
+Login or register
+	Registeration--> UserName or UserEmail or UserPassword
+	Login--> UserName/UserEmail and UserPassword
+------------------------------------------------------
+Welcome UserName
+
+Quiz category options
+1. Java
+2. C
+3. C++
+
+Questions display on the basis of category choosen
+Question1 Question
+A.Option1	B. Option2
+C.Option3	D. Option4
+If ans is correct increase the score of user and if answer is incorrect 
+then quiz is stopped immediately and show total score.
+
+------------------------------------------------------------------------------
