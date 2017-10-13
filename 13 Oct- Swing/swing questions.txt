@@ -1,0 +1,7 @@
+
+1) WAP to take input from user and check its even or odd
+
+2) WAP to take principal, rate and time from user and calculate simple interest.
+
+3) WAP to accept two values from user and provide option for addition, subtration, multiplication, division and perform the calculation accordingly.
+
